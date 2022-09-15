@@ -2,7 +2,7 @@
 
 
 This repository contains the PyTorch code for the paper
-> Yufang Liu*, Ziyin Huang*, Yijun Wang, Changzhi Sun, Man Lan, Yuanbin Wu, Xiaofeng Mou and Ding Wang. [*Few Clean Instances Help Denoising Distant Supervision*](https://). Coling, 2022.
+> Yufang Liu*, Ziyin Huang*, Yijun Wang, Changzhi Sun, Man Lan, Yuanbin Wu, Xiaofeng Mou and Ding Wang. [*Few Clean Instances Help Denoising Distant Supervision*](https://arxiv.org/pdf/2209.06596.pdf). Coling, 2022.
 
 A model-agnostic denoise method for distant supervision relation extraction. We propose a new criterion for clean
 instance selection based on influence functions. It collects sample-level evidence for recognizing good instancess 
